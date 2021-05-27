@@ -1,0 +1,2 @@
+export const TOKEN = 'TOKEN';
+export const PHYSICIAN_DETAILS = 'PHYSICIAN_DETAILS';
